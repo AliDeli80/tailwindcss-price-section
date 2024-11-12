@@ -57,3 +57,7 @@ This project utilizes the following Tailwind UI components:
 - Test your design on different devices and screen sizes to ensure optimal responsiveness.
 
 By following these steps and leveraging the power of Tailwind CSS and Tailwind UI, you can create stunning and functional pricing sections for your web projects.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
